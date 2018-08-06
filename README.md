@@ -1,4 +1,4 @@
-# mt-app
+# mc-takeout
 
 > A Vue.js project
 
